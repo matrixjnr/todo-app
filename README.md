@@ -5,7 +5,7 @@ A simple todo app built with flutter.
 
 | Screenshot                                                                       | Screenshot                                                                       | Screenshot                                                                       |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| <img src="https://github.com/matrixjnr/todo-app/blob/master/Screenshot1.png"> | <img src="https://github.com/matrixjnr/todo-app/blob/master/Screenshot2.png"> | <img src="https://github.com/newtonmunene99/tasker/blob/master/Screenshot3.png"> |
+| <img src="https://github.com/matrixjnr/todo-app/blob/master/Screenshot1.png"> | <img src="https://github.com/matrixjnr/todo-app/blob/master/Screenshot2.png"> | <img src="https://github.com/matrixjnr/todo-app/blob/master/Screenshot3.png"> |
 | <img src="https://github.com/matrixjnr/todo-app/blob/master/Screenshot4.png"> | <img src="https://github.com/matrixjnr/todo-app/blob/master/Screenshot5.png"> | <img src="https://github.com/matrixjnr/todo-app/blob/master/Screenshot6.png"> |
 | ------------------------------                                                   | ------------------------------                                                   | ------------------------------                                                   |
 
